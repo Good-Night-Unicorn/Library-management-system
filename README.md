@@ -4,8 +4,17 @@
 接毕业设计和论文
 
 博客地址： https://blog.csdn.net/javayoungcoolboy/article/details/139908221?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22139908221%22%2C%22source%22%3A%22javayoungcoolboy%22%7D
+
+
+
 视频演示:https://space.bilibili.com/3546643806816949
+
+
+
 毕业设计所有选题地址： https://blog.csdn.net/javayoungcoolboy?spm=1018.2226.3001.5343
+
+
+
 基于springboot的图书管理系统
 1.前后端项目，前端使用vue框架
 2.后端使用Java编程语言的Springboot框架
